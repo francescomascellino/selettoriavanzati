@@ -3,3 +3,11 @@
     margin: 0;
     padding: 0;
 }
+
+h1.title {
+    color: red;
+}
+
+input[type="button"] {
+    border: none;
+}
