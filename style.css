@@ -11,3 +11,20 @@ h1.title {
 input[type="button"] {
     border: none;
 }
+
+div p {
+    color: red;
+}
+
+a:hover,
+a:active {
+    color: red;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:focus {
+    color: yellow;
+}
